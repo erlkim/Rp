@@ -1,7 +1,7 @@
-const RADIO_NAME = 'Jailson Web Rádio';
+const RADIO_NAME = 'Erlkim Web Rádio';
 
 // Change Stream URL Here, Supports, ICECAST, ZENO, SHOUTCAST, RADIOJAR and any other stream service.
-const URL_STREAMING = 'https://stream.zeno.fm/yn65fsaurfhvv';
+const URL_STREAMING = 'https://stream.zeno.fm/dluqa91qwdruv';
 
 //API URL /
 const API_URL = 'https://free.miradio.pro/icy?url='+URL_STREAMING;
